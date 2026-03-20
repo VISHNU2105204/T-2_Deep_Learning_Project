@@ -25,3 +25,4 @@
 ## Softmax Output: The model doesn't just "guess"; it calculates a confidence score for every category, allowing you to see exactly how certain the AI is about its prediction.
 
 # OUTPUT:
+<img width="1036" height="89" alt="Image" src="https://github.com/user-attachments/assets/a0bad5fe-d0cd-449d-bf60-03e338b013e2" />
